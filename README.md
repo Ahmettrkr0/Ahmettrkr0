@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/695d7212c6b29003ea310d12?variant=dark&roadmaps=ai-engineer" alt="roadmap.sh"/></a>
+
+
+Hi İ Am Ahmet
 <!--
 **Ahmettrkr0/Ahmettrkr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
