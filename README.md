@@ -63,5 +63,5 @@
 </div>
 
 ###
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/695d7212c6b29003ea310d12?variant=dark&roadmaps=ai-engineer" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/695d7212c6b29003ea310d12?variant=dark" alt="roadmap.sh"/></a>
 ###
